@@ -115,11 +115,11 @@
     
     
     
-    <category term="Redis" scheme="http://www.taoaimadao.top/blog/tags/Redis/"/>
-    
     <category term="刷题" scheme="http://www.taoaimadao.top/blog/tags/%E5%88%B7%E9%A2%98/"/>
     
     <category term="面试题" scheme="http://www.taoaimadao.top/blog/tags/%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
+    
+    <category term="Redis" scheme="http://www.taoaimadao.top/blog/tags/Redis/"/>
     
   </entry>
   
